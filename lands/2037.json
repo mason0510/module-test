@@ -1,0 +1,19 @@
+{
+	"id": "2037",
+	"name": "Land 36,-32",
+	"description": "城市森林生活区",
+	"image": "http://101.71.63.249/static/land/images/2037.jpg",
+	"external_url": "",
+	"attributes": [
+		{
+			"trait_type": "X",
+			"value": "36",
+			"display_type": "number"
+		},
+		{
+			"trait_type": "Y",
+			"value": "-32",
+			"display_type": "number"
+		}
+	]
+}
